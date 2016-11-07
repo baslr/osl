@@ -1,0 +1,20 @@
+{
+  "name": "osl",
+  "version": "1.0.0",
+  "description": "raw openssl, enc and smime",
+  "main": "openssl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/baslr/osl"
+  },
+  "keywords": [
+    "openssl",
+    "enc",
+    "smime"
+  ],
+  "author": "Manuel Baesler",
+  "license": "AGPL-3.0"
+}
